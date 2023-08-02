@@ -22,6 +22,8 @@ python
 
 # To clean the instance
 
+Initial documentation is available on [this link](https://cloud.google.com/shell/docs/resetting-cloud-shell?hl=fr#reset).
+
 ```bash
 sudo rm -rf $HOME
 ```
